@@ -1,0 +1,15 @@
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\bin\Debug\net6.0\DotNetCodeExamples.exe
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\bin\Debug\net6.0\DotNetCodeExamples.deps.json
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\bin\Debug\net6.0\DotNetCodeExamples.runtimeconfig.json
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\bin\Debug\net6.0\DotNetCodeExamples.dll
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\bin\Debug\net6.0\DotNetCodeExamples.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.csproj.AssemblyReference.cache
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.AssemblyInfoInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.AssemblyInfo.cs
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.csproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.dll
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\refint\DotNetCodeExamples.dll
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\DotNetCodeExamples.genruntimeconfig.cache
+C:\Users\abner\OneDrive\Área de Trabalho\Pastas\Projetos\DotNetCodeExamplesNew\DotNetCodeExamples\DotNetCodeExamples\obj\Debug\net6.0\ref\DotNetCodeExamples.dll
